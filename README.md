@@ -1,7 +1,7 @@
-# rap-horn package
+# gong package
 
-Adds a rap air horn to Atom.
+Adds a gong to Atom.
 
-Activate by pressing `f1`. Repeat.
+Activate by pressing `f2`.
 
-[![apm install rap-horn](https://apm-badges.herokuapp.com/apm/rap-horn.svg)](https://atom.io/packages/rap-horn)
+`apm install gong`
