@@ -1,0 +1,20 @@
+{
+  "name": "gong",
+  "main": "./lib/gong",
+  "version": "0.1.0",
+  "description": "For when you do something gongworthy",
+  "keywords": [
+    "gong",
+    "sound",
+    "fun"
+  ],
+  "activationCommands": {
+    "atom-workspace": "gong:play"
+  },
+  "repository": "",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
