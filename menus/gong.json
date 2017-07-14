@@ -4,11 +4,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "rap-horn",
+          "label": "gong",
           "submenu": [
             {
-              "label": "Rap Horn",
-              "command": "rap-horn:play"
+              "label": "Gong",
+              "command": "gong:play"
             }
           ]
         }
