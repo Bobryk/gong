@@ -1,7 +1,7 @@
 {
   "name": "gong",
   "main": "./lib/gong",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "For when you do something gongworthy",
   "keywords": [
     "gong",
