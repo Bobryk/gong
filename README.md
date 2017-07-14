@@ -2,6 +2,6 @@
 
 Adds a gong to Atom.
 
-Activate by pressing `f2`.
+Activate by pressing `f3`.
 
 `apm install gong`
